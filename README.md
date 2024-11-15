@@ -6,3 +6,5 @@ _This_ is my **new repo**.
 
 ![Dancing Jake the Dog](images/jake-dance.gif)
 
+![Waving fox](fox-wave.gif)
+
