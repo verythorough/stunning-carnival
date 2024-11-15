@@ -2,6 +2,7 @@
 
 _This_ is my **new repo**.
 
-[This is the text](https://github.com)
+[This is the text](text-files/my-file.txt)
 
-![This is alt text](https://placecats.com/300/200)
+![Dancing Jake the Dog](images/jake-dance.gif)
+
